@@ -2,7 +2,9 @@ First go to https://docs.ai21.com/
 
 then create a account and get the "api key" its a  30days free trial
 
-the edit the my api to your api key in the javascript section "YOUR API KEY"
+the edit the my api to your api key in the javascript section "YOUR API KEY"  
+
+[ "Authorization": "Bearer YOUR API KEY PASTE HERE"    ]
 
 then test it on live sever to fully work 
 
