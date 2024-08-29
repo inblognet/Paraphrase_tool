@@ -1,4 +1,4 @@
-#HOW TO SETUP THE RROJECT
+##HOW TO SETUP THE RROJECT
 
 First go to https://docs.ai21.com/ 
 
