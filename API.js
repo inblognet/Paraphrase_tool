@@ -52,7 +52,7 @@ function showLoader() {
     fetch("https://api.ai21.com/studio/v1/paraphrase", {
       method: "POST",
       headers: {
-        "Authorization": "Bearer alxY13bCQ87FqWc20E9jnFtU9su8EeXC",
+        "Authorization": "Bearer YOUR API KEY PASTE HERE",
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
