@@ -11,4 +11,5 @@ if your having any isuses contact me on via email - kishudilantha@gmail.com
 
 goodluck :)
 
-![images](https://github.com/user-attachments/assets/bed1cfc0-6bee-41c0-a1fc-f20d4c148c6b)
+
+![image](https://github.com/user-attachments/assets/31496cbf-4cdc-412e-83f9-e6278e7ba8ae)
